@@ -76,6 +76,7 @@ set showmatch
 set wildmenu
 
 set clipboard+=unnamed
+set noswapfile
 
 if has('mouse')
     set mouse=a
