@@ -75,6 +75,8 @@ set whichwrap=b,s,h,l,<,>,[,],~
 set showmatch
 set wildmenu
 
+set clipboard+=unnamed
+
 if has('mouse')
     set mouse=a
     if has('mouse_sgr')
